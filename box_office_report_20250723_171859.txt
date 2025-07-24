@@ -1,0 +1,51 @@
+Box Office Revenue Prediction Report
+========================================
+Report generated on: 2025-07-23 17:18:59
+
+1. Exploratory Data Analysis (EDA) Summary
+----------------------------------------
+Descriptive Statistics:
+             budget     runtime  imdb_rating  social_media_sentiment       revenue
+count  1.000000e+02  100.000000   100.000000              100.000000  1.000000e+02
+mean   1.064150e+08  130.070000     6.288000                0.545200  4.509935e+08
+std    5.600710e+07   29.232698     1.333355                0.198298  2.122956e+08
+min    2.028213e+06   80.000000     4.000000                0.200000  1.305137e+07
+25%    6.252864e+07  107.750000     5.275000                0.367500  3.095870e+08
+50%    1.099816e+08  128.500000     6.250000                0.565000  4.664401e+08
+75%    1.582601e+08  154.000000     7.125000                0.732500  6.339057e+08
+max    1.998298e+08  179.000000     9.000000                0.890000  7.997161e+08
+
+Missing Values:
+budget                    0
+genre                     0
+runtime                   0
+release_date              0
+cast                      0
+director                  0
+imdb_rating               0
+social_media_sentiment    0
+revenue                   0
+dtype: int64
+
+2. Model Performance
+----------------------------------------
+R-squared: -0.3986
+Mean Absolute Error: 0.8194
+
+3. Feature Importance
+----------------------------------------
+                   feature    importance
+3   social_media_sentiment  6.475248e-01
+2              imdb_rating  1.024587e-01
+1                  runtime  2.466520e-03
+0                   budget  1.848688e-09
+12           release_month -1.189656e-02
+13             release_day -2.639814e-02
+6              genre_Drama -3.128335e-02
+7             genre_Horror -7.514823e-02
+11            release_year -9.560715e-02
+4          genre_Adventure -1.341883e-01
+10          genre_Thriller -2.257995e-01
+5             genre_Comedy -3.144621e-01
+8            genre_Romance -3.756379e-01
+9             genre_Sci-Fi -6.464263e-01
