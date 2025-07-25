@@ -1,101 +1,101 @@
 budget,genre,runtime,release_date,cast,director,imdb_rating,social_media_sentiment,revenue
-118495424,Drama,161,2020-08-05,"Actor 19, Actor 10",Director 6,6.8,0.89,723927129
-30080048,Romance,155,2022-03-04,"Actor 12, Actor 2",Director 8,4.3,0.38,599097331
-5855931,Comedy,91,2020-08-30,"Actor 12, Actor 6",Director 2,4.6,0.36,13051371
-50453976,Comedy,147,2021-09-30,"Actor 15, Actor 13, Actor 9",Director 6,6.6,0.58,742846005
-173741447,Action,89,2020-06-23,"Actor 11, Actor 7",Director 3,4.7,0.8,504255158
-9824796,Horror,121,2020-09-13,"Actor 1, Actor 17",Director 6,4.9,0.28,340752410
-97038791,Action,176,2020-11-09,"Actor 16, Actor 2",Director 6,6.3,0.2,705435501
-37763505,Sci-Fi,109,2021-12-12,"Actor 19, Actor 1",Director 6,7.2,0.56,779777922
-71909003,Comedy,122,2022-05-23,"Actor 7, Actor 11, Actor 13, Actor 3",Director 5,7.8,0.8,737402567
-189031256,Sci-Fi,163,2020-08-24,"Actor 13, Actor 14, Actor 2, Actor 9",Director 4,8.0,0.68,783738131
-84225852,Romance,122,2022-11-27,"Actor 15, Actor 20, Actor 11, Actor 6",Director 1,6.2,0.81,565591060
-60853639,Drama,137,2022-05-17,"Actor 7, Actor 17, Actor 19, Actor 6",Director 3,5.9,0.61,553425204
-164060386,Horror,127,2021-05-16,"Actor 4, Actor 13",Director 4,5.7,0.79,607788834
-163706327,Sci-Fi,165,2022-02-13,"Actor 10, Actor 17, Actor 6",Director 4,8.9,0.24,116721864
-45650133,Action,115,2021-12-31,"Actor 13, Actor 8",Director 8,6.1,0.8,376118390
-165311538,Romance,148,2021-03-18,"Actor 14, Actor 3, Actor 12",Director 8,7.0,0.83,706214023
-6123370,Drama,80,2020-06-06,"Actor 7, Actor 1",Director 1,5.5,0.57,309764958
-122184618,Action,86,2021-07-10,"Actor 17, Actor 2",Director 8,4.4,0.26,513543738
-123842423,Comedy,166,2022-02-04,"Actor 11, Actor 19",Director 9,5.5,0.26,333952236
-71362496,Romance,112,2021-10-29,"Actor 14, Actor 4",Director 7,6.5,0.74,84905710
-118957108,Action,89,2022-02-27,"Actor 6, Actor 19",Director 8,6.6,0.8,503588789
-33652135,Comedy,149,2022-02-27,"Actor 6, Actor 1",Director 7,6.7,0.76,107524301
-20646758,Romance,104,2020-05-24,"Actor 20, Actor 16, Actor 14",Director 9,5.7,0.73,180968458
-177710946,Romance,103,2022-09-29,"Actor 15, Actor 16, Actor 8",Director 4,5.3,0.37,106738552
-93609883,Action,121,2022-01-13,"Actor 17, Actor 6, Actor 13, Actor 15",Director 9,7.7,0.59,635981300
-61351042,Adventure,154,2020-03-24,"Actor 7, Actor 19, Actor 17",Director 5,6.5,0.75,671400061
-170909702,Adventure,124,2021-09-26,"Actor 16, Actor 17, Actor 15, Actor 2",Director 5,6.9,0.51,404330071
-187507788,Romance,90,2020-09-21,"Actor 18, Actor 5, Actor 3",Director 3,6.8,0.67,369319176
-105441186,Adventure,83,2022-02-06,"Actor 12, Actor 5",Director 1,4.8,0.31,617897548
-35138603,Thriller,88,2020-04-03,"Actor 16, Actor 4",Director 6,8.9,0.82,422007576
-26603019,Action,115,2020-05-02,"Actor 16, Actor 9",Director 6,8.5,0.41,62266755
-90598666,Adventure,136,2022-05-11,"Actor 3, Actor 15, Actor 4, Actor 8",Director 5,7.5,0.41,353825530
-134665293,Adventure,110,2020-10-18,"Actor 14, Actor 8, Actor 20, Actor 12",Director 7,5.7,0.78,259136846
-194472947,Adventure,145,2020-08-17,"Actor 8, Actor 11",Director 10,8.2,0.25,20843261
-80549926,Horror,140,2021-01-18,"Actor 19, Actor 2, Actor 17, Actor 9",Director 6,7.8,0.42,739406061
-89119892,Drama,152,2021-06-11,"Actor 14, Actor 17",Director 8,7.1,0.66,668957868
-101219827,Drama,152,2021-11-22,"Actor 14, Actor 7, Actor 15",Director 4,6.8,0.7,375158932
-158154747,Action,161,2020-06-12,"Actor 1, Actor 17",Director 2,4.2,0.64,752383748
-36963884,Horror,81,2020-06-25,"Actor 20, Actor 3, Actor 15, Actor 6",Director 1,6.0,0.26,545697747
-2028213,Comedy,87,2022-03-15,"Actor 9, Actor 5, Actor 6, Actor 20",Director 6,5.1,0.73,535341945
-40610712,Romance,125,2021-06-08,"Actor 18, Actor 10",Director 10,6.4,0.35,336885934
-62921177,Thriller,100,2022-08-06,"Actor 10, Actor 19",Director 9,5.3,0.37,482464740
-187343336,Sci-Fi,131,2021-02-26,"Actor 15, Actor 20, Actor 17, Actor 5",Director 1,6.8,0.62,315149853
-23478013,Drama,156,2020-09-09,"Actor 11, Actor 19",Director 3,5.8,0.47,780434500
-181402360,Romance,96,2022-02-25,"Actor 19, Actor 3, Actor 13",Director 7,4.1,0.46,201053713
-186400361,Drama,117,2022-08-22,"Actor 14, Actor 3, Actor 6, Actor 17",Director 4,4.4,0.26,622584223
-144038019,Thriller,167,2020-08-24,"Actor 10, Actor 6, Actor 2",Director 10,8.2,0.52,444141760
-29256426,Drama,87,2020-03-03,"Actor 6, Actor 2, Actor 11, Actor 20",Director 5,6.3,0.87,668456164
-69941959,Adventure,108,2021-09-04,"Actor 8, Actor 1, Actor 4, Actor 7",Director 4,4.7,0.64,445054636
-145699355,Thriller,86,2022-08-18,"Actor 8, Actor 14, Actor 11",Director 10,8.0,0.29,218028500
-88370777,Adventure,101,2021-11-30,"Actor 13, Actor 20, Actor 9",Director 10,8.1,0.46,170141013
-122701912,Sci-Fi,114,2022-10-01,"Actor 9, Actor 7, Actor 4",Director 2,7.6,0.53,116393213
-115459101,Adventure,107,2021-12-01,"Actor 8, Actor 18, Actor 15",Director 8,5.4,0.44,309053231
-143011816,Drama,179,2022-05-25,"Actor 19, Actor 20, Actor 8",Director 2,5.6,0.41,561387224
-187006667,Horror,174,2020-01-31,"Actor 10, Actor 16, Actor 17, Actor 8",Director 3,6.4,0.81,406960184
-158576315,Romance,94,2020-11-30,"Actor 12, Actor 14, Actor 10, Actor 20",Director 2,9.0,0.47,320471620
-167852679,Drama,153,2020-07-10,"Actor 3, Actor 4",Director 4,6.3,0.27,731130307
-95859211,Horror,124,2021-04-07,"Actor 8, Actor 4, Actor 2",Director 1,5.4,0.31,517494525
-167876507,Drama,84,2020-09-11,"Actor 15, Actor 10",Director 7,5.1,0.74,470974161
-163224830,Action,172,2021-03-11,"Actor 11, Actor 13",Director 1,5.1,0.45,191785679
-73885493,Horror,126,2020-08-29,"Actor 3, Actor 16",Director 6,5.2,0.57,190273762
-89599976,Adventure,174,2021-07-16,"Actor 8, Actor 5, Actor 10",Director 8,4.0,0.57,216158610
-183549815,Adventure,115,2022-02-17,"Actor 7, Actor 14, Actor 5, Actor 2",Director 8,6.3,0.61,799716086
-148371939,Romance,174,2022-10-13,"Actor 6, Actor 12, Actor 20",Director 3,4.5,0.55,346437389
-125527921,Thriller,163,2020-04-30,"Actor 14, Actor 17, Actor 10, Actor 8",Director 1,6.4,0.64,247569681
-199829764,Drama,145,2020-04-26,"Actor 11, Actor 4, Actor 12",Director 2,6.1,0.51,667147647
-114522095,Sci-Fi,89,2020-02-13,"Actor 13, Actor 4, Actor 15, Actor 5",Director 9,5.0,0.36,270810358
-97742789,Romance,151,2021-09-07,"Actor 9, Actor 15, Actor 14, Actor 13",Director 3,8.1,0.63,466910380
-56806660,Thriller,101,2022-10-22,"Actor 11, Actor 14",Director 8,7.0,0.56,613494673
-119118595,Comedy,120,2022-07-01,"Actor 20, Actor 13",Director 6,6.6,0.22,668550333
-64518406,Horror,174,2020-02-20,"Actor 5, Actor 15, Actor 8",Director 9,4.1,0.34,539656186
-161246531,Romance,81,2020-12-25,"Actor 1, Actor 19, Actor 2",Director 9,6.2,0.82,633213898
-144243369,Horror,98,2022-06-05,"Actor 14, Actor 11",Director 2,6.0,0.56,690925790
-181986207,Sci-Fi,163,2021-08-31,"Actor 13, Actor 17",Director 6,6.6,0.6,426433342
-64844711,Action,131,2020-03-17,"Actor 10, Actor 2, Actor 20",Director 9,4.0,0.48,372777519
-160093746,Thriller,169,2020-12-19,"Actor 10, Actor 8",Director 5,5.5,0.76,539688716
-23430558,Comedy,171,2020-03-26,"Actor 18, Actor 8, Actor 4",Director 3,5.0,0.81,112995381
-15988429,Comedy,160,2021-05-10,"Actor 12, Actor 19, Actor 20",Director 2,5.9,0.77,181656888
-147843767,Horror,144,2022-06-01,"Actor 20, Actor 16",Director 3,7.3,0.78,597775904
-150484867,Comedy,119,2020-02-13,"Actor 14, Actor 11, Actor 6, Actor 15",Director 8,8.1,0.35,725994684
-87300819,Action,142,2022-09-29,"Actor 3, Actor 7, Actor 17, Actor 20",Director 10,8.4,0.44,601846512
-122599146,Comedy,154,2022-10-16,"Actor 20, Actor 6, Actor 9, Actor 14",Director 4,4.9,0.21,225927931
-83755324,Romance,147,2022-05-19,"Actor 5, Actor 1, Actor 19, Actor 9",Director 8,8.7,0.33,247273140
-64013790,Comedy,127,2022-06-10,"Actor 11, Actor 7, Actor 15",Director 3,4.1,0.64,458360039
-119273472,Sci-Fi,178,2021-08-14,"Actor 18, Actor 1",Director 6,7.3,0.73,366818683
-129675279,Horror,141,2020-09-29,"Actor 20, Actor 18, Actor 17",Director 3,5.3,0.35,664823055
-153290899,Thriller,167,2022-02-15,"Actor 11, Actor 5, Actor 8, Actor 18",Director 4,5.8,0.61,465969885
-88343815,Drama,145,2020-04-18,"Actor 11, Actor 7",Director 9,6.9,0.89,480358140
-168185921,Comedy,137,2021-01-04,"Actor 5, Actor 12, Actor 4",Director 1,6.1,0.31,589497854
-59888190,Action,137,2022-12-09,"Actor 9, Actor 15, Actor 14, Actor 18",Director 1,5.2,0.75,335033870
-69127295,Comedy,126,2022-01-15,"Actor 14, Actor 20",Director 7,8.6,0.47,32072186
-56928948,Drama,122,2020-02-16,"Actor 16, Actor 19, Actor 6",Director 4,6.8,0.79,671348334
-4983558,Adventure,164,2020-09-11,"Actor 2, Actor 5, Actor 12, Actor 14",Director 4,4.7,0.64,667204580
-118930484,Horror,139,2020-08-12,"Actor 13, Actor 9",Director 7,7.4,0.61,433503007
-193451801,Drama,130,2022-04-25,"Actor 2, Actor 8, Actor 7, Actor 1",Director 1,8.7,0.39,391418340
-154053467,Comedy,83,2021-12-06,"Actor 8, Actor 2, Actor 17, Actor 3",Director 9,6.0,0.62,677520346
-147137700,Horror,118,2021-08-02,"Actor 4, Actor 6",Director 5,4.7,0.2,156047926
-81087003,Horror,116,2021-02-08,"Actor 3, Actor 4, Actor 20",Director 9,8.6,0.29,535570641
-52031403,Horror,177,2020-08-27,"Actor 11, Actor 8, Actor 3",Director 2,7.0,0.26,382758160
-171961198,Action,138,2021-08-16,"Actor 19, Actor 1, Actor 4, Actor 20",Director 3,6.0,0.75,666684892
+35330031,Romance,150,2022-01-13,"Actor 10, Actor 13, Actor 16",Director 5,6.7,0.43,757059717
+19767553,Romance,136,2021-06-30,"Actor 5, Actor 3, Actor 10",Director 5,6.2,0.42,572232425
+83190913,Horror,93,2022-12-08,"Actor 6, Actor 4",Director 1,4.9,0.41,277715768
+151421305,Comedy,123,2021-02-09,"Actor 8, Actor 14, Actor 2, Actor 3",Director 10,5.9,0.73,391703839
+151954993,Adventure,171,2022-11-15,"Actor 1, Actor 11",Director 7,6.8,0.3,21557177
+80543307,Thriller,88,2022-03-18,"Actor 2, Actor 12",Director 5,6.2,0.48,216009275
+101635127,Thriller,171,2022-10-23,"Actor 3, Actor 9",Director 1,6.5,0.38,515426189
+130445643,Adventure,91,2022-06-10,"Actor 17, Actor 6, Actor 18",Director 3,6.7,0.72,532760869
+114959535,Action,127,2022-07-08,"Actor 2, Actor 16, Actor 18, Actor 7",Director 4,8.6,0.29,668950850
+50266234,Comedy,159,2021-02-14,"Actor 17, Actor 1, Actor 9, Actor 12",Director 1,5.4,0.56,126344192
+189551590,Comedy,124,2020-06-26,"Actor 19, Actor 4",Director 2,8.6,0.71,688751290
+4894232,Romance,173,2021-11-26,"Actor 4, Actor 6, Actor 2",Director 8,6.3,0.7,106402740
+32388389,Romance,178,2022-04-07,"Actor 4, Actor 12",Director 9,7.2,0.71,780959570
+175126259,Comedy,151,2022-03-25,"Actor 6, Actor 10, Actor 5, Actor 2",Director 3,8.3,0.4,711793564
+35412022,Comedy,125,2020-05-29,"Actor 14, Actor 7, Actor 4, Actor 6",Director 10,5.6,0.48,467293793
+172884534,Action,142,2020-06-11,"Actor 4, Actor 10, Actor 17, Actor 8",Director 10,4.4,0.72,174515629
+52238301,Comedy,134,2021-01-20,"Actor 9, Actor 17, Actor 1, Actor 3",Director 5,7.2,0.24,518133436
+172103196,Comedy,159,2020-02-17,"Actor 1, Actor 18, Actor 12",Director 1,8.7,0.86,652208021
+169265418,Comedy,96,2022-01-06,"Actor 16, Actor 3, Actor 11",Director 6,4.0,0.69,484167311
+11274435,Horror,144,2022-12-04,"Actor 11, Actor 4",Director 1,7.5,0.57,636495604
+84288733,Adventure,135,2021-04-13,"Actor 5, Actor 3, Actor 18",Director 2,6.0,0.22,764989373
+195377470,Sci-Fi,123,2020-09-09,"Actor 11, Actor 9",Director 9,7.4,0.23,702413680
+27418210,Comedy,80,2021-02-17,"Actor 18, Actor 8",Director 9,4.5,0.35,407370905
+138481771,Action,158,2020-02-05,"Actor 10, Actor 8",Director 10,7.5,0.35,594900598
+42857705,Drama,114,2022-07-16,"Actor 5, Actor 11, Actor 2, Actor 15",Director 9,8.1,0.8,270288244
+82415894,Adventure,134,2021-11-28,"Actor 18, Actor 6",Director 10,7.9,0.82,638266558
+39594503,Adventure,176,2020-03-09,"Actor 4, Actor 6, Actor 8",Director 10,4.1,0.31,106777039
+98322431,Adventure,167,2022-08-08,"Actor 18, Actor 8",Director 5,7.4,0.8,479995973
+128238066,Drama,179,2021-07-24,"Actor 4, Actor 19",Director 5,6.3,0.76,182517649
+43315899,Horror,155,2021-01-29,"Actor 11, Actor 19, Actor 6",Director 8,8.8,0.53,356685281
+183450133,Action,143,2020-07-31,"Actor 16, Actor 6, Actor 3, Actor 11",Director 2,8.6,0.5,671918168
+80605234,Action,98,2020-03-27,"Actor 12, Actor 17",Director 5,4.2,0.77,97592600
+151909228,Sci-Fi,132,2020-12-02,"Actor 16, Actor 7, Actor 11, Actor 1",Director 3,8.9,0.67,241994263
+70793204,Thriller,86,2022-12-23,"Actor 20, Actor 10",Director 7,4.7,0.51,694229281
+59575179,Romance,159,2022-09-05,"Actor 20, Actor 18, Actor 16",Director 8,4.9,0.89,567080018
+170963118,Adventure,179,2022-12-24,"Actor 13, Actor 7, Actor 12",Director 4,4.2,0.23,173074012
+9816003,Horror,95,2020-09-30,"Actor 2, Actor 5, Actor 11, Actor 7",Director 2,8.6,0.61,713202922
+56655050,Thriller,114,2020-02-26,"Actor 18, Actor 5, Actor 10",Director 6,7.7,0.71,40556361
+159112085,Comedy,161,2020-05-07,"Actor 5, Actor 10, Actor 2, Actor 11",Director 5,6.2,0.76,208047524
+20671570,Romance,80,2022-04-14,"Actor 5, Actor 10, Actor 1",Director 7,7.3,0.68,559382933
+84363807,Drama,148,2021-06-01,"Actor 11, Actor 15, Actor 10, Actor 6",Director 5,5.0,0.72,155542890
+15417027,Romance,86,2021-11-28,"Actor 20, Actor 16",Director 6,8.6,0.71,412536260
+43100307,Adventure,143,2020-11-27,"Actor 9, Actor 4",Director 3,8.9,0.83,675931739
+43874047,Adventure,111,2022-04-09,"Actor 20, Actor 4, Actor 5, Actor 1",Director 2,7.4,0.61,777276427
+194153131,Action,130,2020-09-09,"Actor 14, Actor 6",Director 5,6.0,0.72,558576058
+87678374,Comedy,146,2020-07-21,"Actor 16, Actor 1",Director 6,6.9,0.8,432239241
+164539207,Drama,90,2020-05-05,"Actor 13, Actor 1",Director 10,8.5,0.77,110581018
+38832093,Romance,131,2020-12-22,"Actor 7, Actor 18, Actor 11, Actor 15",Director 9,5.5,0.88,321578737
+137681876,Horror,136,2021-03-06,"Actor 11, Actor 2, Actor 20, Actor 15",Director 10,6.4,0.59,729508480
+64305439,Thriller,116,2021-01-13,"Actor 18, Actor 4, Actor 8",Director 10,4.5,0.79,120339436
+82122271,Thriller,81,2021-02-02,"Actor 12, Actor 2",Director 1,8.2,0.27,187149931
+14887598,Sci-Fi,114,2020-06-30,"Actor 20, Actor 8, Actor 15, Actor 14",Director 4,8.0,0.68,331557568
+3261993,Sci-Fi,107,2022-12-14,"Actor 11, Actor 4",Director 5,7.8,0.21,795009283
+38976397,Romance,153,2021-01-12,"Actor 1, Actor 3, Actor 13",Director 5,8.5,0.22,57344259
+21781482,Romance,92,2021-05-19,"Actor 20, Actor 1, Actor 3, Actor 9",Director 6,6.6,0.32,648930839
+56435542,Romance,97,2020-09-27,"Actor 16, Actor 18",Director 1,6.8,0.65,553372111
+86954516,Drama,113,2021-05-02,"Actor 4, Actor 14, Actor 10",Director 3,5.6,0.5,628192630
+150030880,Sci-Fi,148,2021-02-22,"Actor 13, Actor 15",Director 9,5.0,0.59,64029021
+78335057,Horror,160,2020-01-26,"Actor 13, Actor 17, Actor 16",Director 4,7.5,0.26,42015060
+31781930,Adventure,150,2020-07-25,"Actor 4, Actor 15, Actor 3",Director 6,6.6,0.45,313850825
+159362213,Adventure,99,2022-03-26,"Actor 5, Actor 16",Director 6,5.1,0.56,609203285
+119447502,Adventure,175,2022-08-28,"Actor 7, Actor 17, Actor 6",Director 5,6.7,0.79,313927934
+86074250,Horror,81,2021-03-03,"Actor 8, Actor 17, Actor 2",Director 10,7.2,0.45,335203302
+135168946,Drama,148,2020-09-23,"Actor 15, Actor 8, Actor 6",Director 8,4.5,0.79,438198380
+53751875,Thriller,132,2021-03-02,"Actor 8, Actor 20, Actor 2, Actor 4",Director 1,8.0,0.32,110317318
+166020056,Drama,157,2021-05-28,"Actor 8, Actor 4, Actor 17, Actor 10",Director 7,4.8,0.48,567390216
+52041529,Romance,111,2021-08-01,"Actor 14, Actor 20",Director 4,6.0,0.7,368491805
+148603609,Horror,97,2020-09-14,"Actor 8, Actor 6",Director 8,8.4,0.46,58527268
+157314727,Adventure,121,2021-05-02,"Actor 17, Actor 1, Actor 4",Director 8,4.8,0.43,529617561
+118992279,Comedy,150,2021-05-19,"Actor 12, Actor 20",Director 6,4.5,0.84,131759691
+125372070,Thriller,101,2020-11-27,"Actor 20, Actor 14, Actor 2",Director 5,6.4,0.26,194454539
+194779252,Horror,171,2022-09-03,"Actor 2, Actor 6, Actor 12",Director 4,4.9,0.74,264017510
+108801350,Comedy,84,2022-03-04,"Actor 1, Actor 4, Actor 10, Actor 13",Director 2,6.8,0.71,686147957
+155497534,Adventure,112,2021-04-14,"Actor 12, Actor 15",Director 3,5.6,0.24,331450664
+26929556,Horror,92,2022-12-23,"Actor 17, Actor 7, Actor 3",Director 6,8.4,0.39,599901012
+87589548,Action,107,2022-10-13,"Actor 19, Actor 7, Actor 5",Director 2,4.9,0.36,694473293
+64112098,Sci-Fi,121,2021-02-17,"Actor 6, Actor 17, Actor 15",Director 7,8.5,0.69,730494666
+81105808,Romance,97,2020-06-15,"Actor 7, Actor 16",Director 1,4.3,0.5,453585857
+43308321,Drama,80,2020-03-14,"Actor 18, Actor 9, Actor 3",Director 7,7.6,0.45,411237980
+141052849,Action,130,2020-06-22,"Actor 14, Actor 10",Director 9,8.2,0.73,279868225
+139918307,Sci-Fi,175,2021-12-19,"Actor 11, Actor 10",Director 7,6.7,0.37,291546053
+151136640,Sci-Fi,169,2020-06-04,"Actor 6, Actor 1",Director 6,8.2,0.45,412543701
+47342836,Action,157,2021-11-16,"Actor 4, Actor 5",Director 1,8.2,0.2,535927269
+122005131,Horror,170,2021-03-24,"Actor 15, Actor 12, Actor 3, Actor 7",Director 4,7.7,0.49,19315045
+53203070,Drama,151,2022-02-05,"Actor 17, Actor 8, Actor 5",Director 5,8.4,0.69,681381054
+163981227,Horror,126,2022-02-15,"Actor 17, Actor 13",Director 8,8.2,0.63,738630233
+98409124,Thriller,131,2020-08-31,"Actor 13, Actor 7",Director 8,7.5,0.7,687832593
+160066953,Drama,82,2021-03-14,"Actor 10, Actor 17",Director 4,7.2,0.24,488683884
+155086909,Romance,146,2020-08-07,"Actor 3, Actor 7",Director 1,8.4,0.54,299211848
+135568154,Thriller,134,2020-01-10,"Actor 3, Actor 19",Director 1,4.4,0.25,604790095
+150238700,Romance,103,2021-02-19,"Actor 9, Actor 14, Actor 6, Actor 11",Director 1,8.6,0.54,423460511
+73421297,Sci-Fi,98,2022-03-07,"Actor 19, Actor 8, Actor 5, Actor 2",Director 3,4.7,0.83,465302018
+37228490,Thriller,153,2021-06-01,"Actor 17, Actor 18",Director 10,4.8,0.74,787300830
+100642419,Sci-Fi,95,2022-09-27,"Actor 12, Actor 17, Actor 18",Director 5,5.6,0.2,580438119
+80956113,Thriller,120,2021-10-20,"Actor 13, Actor 19, Actor 2",Director 8,7.6,0.65,215810919
+139046330,Sci-Fi,168,2021-07-02,"Actor 17, Actor 5",Director 7,5.7,0.39,120037273
+190939273,Adventure,122,2022-08-05,"Actor 11, Actor 14, Actor 8, Actor 17",Director 10,4.5,0.2,537756604
+144490600,Adventure,141,2020-10-21,"Actor 8, Actor 19",Director 1,7.9,0.72,634569529
+59101649,Romance,177,2021-05-16,"Actor 7, Actor 4, Actor 2, Actor 5",Director 3,7.4,0.76,606279337
+11629133,Comedy,85,2022-05-18,"Actor 16, Actor 1, Actor 11, Actor 13",Director 9,4.3,0.52,80398006

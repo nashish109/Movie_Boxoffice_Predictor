@@ -143,13 +143,11 @@ def generate_visualizations(df, original_df):
     if not os.path.exists(plots_dir):
         os.makedirs(plots_dir)
 
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-
     # Correlation heatmap
     plt.figure(figsize=(12, 8))
     sns.heatmap(df.corr(), annot=True, cmap='coolwarm', fmt=".2f")
     plt.title('Correlation Heatmap of Numerical Features')
-    plt.savefig(os.path.join(plots_dir, f'correlation_heatmap_{timestamp}.png'))
+    plt.savefig(os.path.join(plots_dir, 'correlation_heatmap.png'))
     plt.close()
 
     # Bar plot of average revenue by genre
@@ -157,21 +155,21 @@ def generate_visualizations(df, original_df):
     original_df.groupby('genre')['revenue'].mean().sort_values(ascending=False).plot(kind='bar')
     plt.title('Average Revenue by Genre')
     plt.ylabel('Average Revenue')
-    plt.savefig(os.path.join(plots_dir, f'average_revenue_by_genre_{timestamp}.png'))
+    plt.savefig(os.path.join(plots_dir, 'average_revenue_by_genre.png'))
     plt.close()
 
     # Scatter plot of budget vs. revenue
     plt.figure(figsize=(10, 6))
     sns.scatterplot(data=original_df, x='budget', y='revenue')
     plt.title('Budget vs. Revenue')
-    plt.savefig(os.path.join(plots_dir, f'budget_vs_revenue_{timestamp}.png'))
+    plt.savefig(os.path.join(plots_dir, 'budget_vs_revenue.png'))
     plt.close()
 
     # Distribution plot of revenue (log-transformed)
     plt.figure(figsize=(10, 6))
     sns.histplot(df['revenue'], kde=True)
     plt.title('Distribution of Log-Transformed Revenue')
-    plt.savefig(os.path.join(plots_dir, f'revenue_distribution_{timestamp}.png'))
+    plt.savefig(os.path.join(plots_dir, 'revenue_distribution.png'))
     plt.close()
 
     print(f"\nVisualizations saved to '{plots_dir}' directory.")
@@ -186,8 +184,7 @@ def generate_report(eda_summary, r2, mae, model):
         mae (float): The Mean Absolute Error of the model.
         model (sklearn.linear_model.LinearRegression): The trained model.
     """
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    report_path = f'box_office_report_{timestamp}.txt'
+    report_path = 'box_office_report.txt'
 
     with open(report_path, 'w') as f:
         f.write("Box Office Revenue Prediction Report\n")
